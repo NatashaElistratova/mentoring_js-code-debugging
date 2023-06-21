@@ -7,8 +7,8 @@ const title = document.querySelector('h1')
 const createGreetingMessage = (name) => {
     const message = `Hello, ${name}!`;
 
-    greeting(mesage);
-
+    greeting(message);
+    
     title.textContent = message;
 }
 
