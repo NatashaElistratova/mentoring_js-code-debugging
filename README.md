@@ -10,3 +10,5 @@
 
 [Документация console API](https://developer.mozilla.org/ru/docs/Web/API/Console_API)
 
+[W3C code debugging](https://www.w3schools.com/js/js_debugging.asp)
+
