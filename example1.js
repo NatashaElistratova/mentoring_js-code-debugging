@@ -3,7 +3,7 @@ const calcResult = (firstNumber, secondNumber) => {
       return (firstNumber + secondNumber) * multiplyValue;
     }
 
-    return multiply(2)
+    multiply(2)
 }
 
 const result = calcResult(4, 5)
