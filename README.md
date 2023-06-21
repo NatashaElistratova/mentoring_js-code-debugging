@@ -12,3 +12,7 @@
 
 [W3C code debugging](https://www.w3schools.com/js/js_debugging.asp)
 
+```bash
+npm install test
+```
+
