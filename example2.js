@@ -5,7 +5,7 @@ const greeting = (phrase) => {
 const title = document.querySelector('h1')
 
 const createGreetingMessage = (name) => {
-    const message = `Hello, ${name}!`;
+    const messege = `Hello, ${name}!`;
 
     greeting(message);
     

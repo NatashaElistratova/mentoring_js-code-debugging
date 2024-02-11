@@ -1,3 +1,9 @@
-const obj = { a: 'test', b: { c: 1, d: { e: 2 } } };
+const obj = { 
+    a: 'test', 
+    b: { 
+        c: 1, 
+        d: { e: 2 } 
+    } 
+};
 
-console.log(obj.b.c);
+console.log(obj.c.b);

@@ -1,5 +1,5 @@
 const calcResult = (firstNumber, secondNumber) => {
-    // let x = 1;
+    let x = 1;
     console.log('firstNumber - ', firstNumber);
     console.log('secondNumber - ', secondNumber);
     const multiply = (multiplyValue) => {
@@ -7,9 +7,9 @@ const calcResult = (firstNumber, secondNumber) => {
       return (firstNumber + secondNumber) * multiplyValue;
     }
 
-    // x = x + 2;
+    x = x + 2;
 
-    // x = Math.sqrt(x);
+    x = Math.sqrt(x);
 
     return multiply(2)
 }
