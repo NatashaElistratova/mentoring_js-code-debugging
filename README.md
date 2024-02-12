@@ -12,4 +12,6 @@
 
 [W3C code debugging](https://www.w3schools.com/js/js_debugging.asp)
 
+[VSCode debugging](https://code.visualstudio.com/docs/editor/debugging)
+
 
